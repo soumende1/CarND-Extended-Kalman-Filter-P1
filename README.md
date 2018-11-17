@@ -16,7 +16,17 @@ The project has the following dependencies (from Udacity's seed project):
 
 For instructions on how to install these components on different operating systems, please, visit [Udacity's seed project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project). This implementation was done in the windows environment
 
-In order to install the necessary libraries, use the [install-mac.sh](./install-mac.sh).
+# Environment Setup
+
+Bash on Windows 10 was used to set up the environment. Windows 10 users is an Ubuntu Bash environment that works great and is easy to setup and use. Here is a nice step by step guide for [setting up the Ubuntu Bash](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) All of the projects in Term 2 and some in Term 3 involve using an open source package called uWebSocketIO. This package facilitates the same connection between the simulator and code.once the Ubuntu is installed the <code>install-ubuntu.sh <\code> was run to install the uWebSocketIO and other project dependencies.
+  
+## Ubuntu BASH on Windows
+* Steps
+- Ensure all dependencies are present per [project resources](https://goo.gl/e2kwJT)
+- Follow these the instructions in the uWebSocketIO starter guide which includes instructions for setting up Ubuntu BASH.
+- open Ubuntu Bash and clone the project repository
+- on the command line execute ./install-ubuntu.sh
+- build and run according to the instructions in the project repository README
 
 # Compiling and executing the project
 
