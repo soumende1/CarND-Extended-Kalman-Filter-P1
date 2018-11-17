@@ -23,7 +23,7 @@ Bash on Windows 10 was used to set up the environment. Windows 10 users is an Ub
 ## Ubuntu BASH on Windows
 * Steps
 - Ensure all dependencies are present per [project resources](https://goo.gl/e2kwJT)
-- Follow these the instructions in the uWebSocketIO starter guide which includes instructions for setting up Ubuntu BASH.
+- Follow these the instructions in the [uWebSocketIO starter guide[(https://goo.gl/D8hMoa) which includes instructions for setting up Ubuntu BASH.
 - open Ubuntu Bash and clone the project repository
 - on the command line execute ./install-ubuntu.sh
 - build and run according to the instructions in the project repository README
