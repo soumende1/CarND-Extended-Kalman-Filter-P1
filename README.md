@@ -69,7 +69,7 @@ As you can see, the simulator connect to it right away.
 
 The following is an image of the simulator:
 
-![Simulator without data](images/simulator_at_start.png)
+![Simulator without data](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG)
 
 The simulator provides two datasets. The difference between them are:
 
