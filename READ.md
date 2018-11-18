@@ -65,6 +65,11 @@ Here is the simulator final state after running the EKL with dataset 1:
 
 ![Simulator with dataset 1](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset1.PNG)
 
+| Simulator with dataset 1  | 
+|:--------------------:| 
+|![Dataset1](./images/simulator_with_dataset1.PNG) | 
+
+
 Here is the simulator final state after running the EKL with dataset 2:
 
 ![Simulator with dataset 2](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset2.PNG)
