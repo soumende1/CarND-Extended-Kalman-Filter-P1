@@ -24,7 +24,7 @@ I used the Windows 10 environment to develop and build the code. Bash on Windows
 * Steps
 - Ensure all dependencies are present as per [project resources](https://goo.gl/e2kwJT)
 - Follow these the instructions in the [uWebSocketIO starter guide](https://goo.gl/D8hMoa) which includes instructions for setting up   Ubuntu BASH.
-- open Ubuntu Bash and clone the project repository- ![see below](./images/ubuntu-terminal.PNG)
+- open Ubuntu Bash and clone the project repository
 - on the command line execute <code>./install-ubuntu.sh</code>
 - build and run according to the instructions in the project repository README
 
@@ -38,11 +38,7 @@ These are the suggested steps:
 - `cmake ..`
 - `make`: This will create two executables
   - `ExtendedKF` : EKF implementation.
-  - `Test` : Simple unit tests using [Catch](https://github.com/philsquared/Catch/blob/master/docs/tutorial.md).
-
-
-
-These unit tests were an experiment with [Catch](https://github.com/philsquared/Catch/blob/master/docs/tutorial.md). It looks like a good and simple unit testing framework for C++.
+![see below](./images/ubuntu-terminal.PNG)
 
 ## Running the Filter
 
@@ -55,12 +51,12 @@ Connected!!!
 
 As you can see, the simulator connect to it right away.
 
-The following is an image of the simulator:
+The following is an image of the simulator at start:
 
 ![Simulator without data](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG)
 
 
-The simulator provides two datasetsdepending on the order the first measurement is sent to the EKF
+The simulator provides two datasets depending on the order the first measurement is sent to the EKF
 
 - On dataset 1, the LIDAR measurement is sent first.
 - On dataset 2, the RADAR measurement is sent first.
@@ -79,7 +75,7 @@ Here is the simulator final state after running the EKL with dataset 2:
 
 ### Your code should compile
 
-The code compiles without errors. I did change the [CMackeLists.txt](./CMakeLists.txt) to add the creation of the `./Tests`. I don't think this will create incompatibilities with other platforms, but I only test it on Mac OS.
+The code compiles without errors. 
 
 ## Accuracy
 
