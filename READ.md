@@ -67,11 +67,11 @@ The simulator provides two datasetsdepending on the order the first measurement 
 
 Here is the simulator final state after running the EKL with dataset 1:
 
-![Simulator with dataset 1](images/simulator_with_dataset1.PNG)
+![Simulator with dataset 1](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_dataset1.png)
 
 Here is the simulator final state after running the EKL with dataset 2:
 
-![Simulator with dataset 2](images/simulator_with_dataset2.PNG)
+![Simulator with dataset 2](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_dataset2.png)
 
 # [Rubric](https://review.udacity.com/#!/rubrics/748/view) points
 
@@ -87,7 +87,7 @@ The code compiles without errors. I did change the [CMackeLists.txt](./CMakeList
 
 The EKF accuracy was:
 
-- Dataset 1 : RMSE <= [0.0973, 0.0855, 0.4513, 0.4399]
+- Dataset 1 : RMSE <= [0.03271, 0.0865, 0.5206, 0.4989]
 - Dataset 2 : RMSE <= [0.0726, 0.0965, 0.4216, 0.4932]
 
 ## Following the Correct Algorithm
