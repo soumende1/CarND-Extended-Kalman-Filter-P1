@@ -3,7 +3,7 @@ Udacity Self-Driving Car Nanodegree - Extended Kalman Filter Implementation
 
 # Overview
 This project consists of implementing an Extended Kalman Filter with C++. A simulator provided by Udacity ([it could be downloaded here](https://github.com/udacity/self-driving-car-sim/releases)) generates noisy RADAR and LIDAR measurements of the position and velocity of an object, and the Extended Kalman Filter[EKF] must carry out a fusion of those measurements to predict the position of the object. The communication between the simulator and the EKF is done using [WebSocket](https://en.wikipedia.org/wiki/WebSocket) using the [uWebSockets](https://github.com/uNetworking/uWebSockets) implementation on the EKF side.
-The starting code is provided by Udacity and was forked in the working directory. [this code is found here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
+The starting code is provided by Udacity and was forked in the working directory. [This code is found here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
 
 # Prerequisites
 
