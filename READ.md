@@ -18,14 +18,14 @@ For instructions on how to install these components on different operating syste
 
 # Environment Setup
 
-Bash on Windows 10 was used to set up the environment. Windows 10 users is an Ubuntu Bash environment that works great and is easy to setup and use. Here is a nice step by step guide for [setting up the Ubuntu Bash](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) All of the projects in Term 2 and some in Term 3 involve using an open source package called uWebSocketIO. This package facilitates the same connection between the simulator and code.once the Ubuntu is installed the <code>install-ubuntu.sh <\code> was run to install the uWebSocketIO and other project dependencies.
+I used the Windows 10 environment to develop and build the code. Bash on Windows 10 was used to set up the environment. Windows 10 users is an Ubuntu Bash environment that works great and is easy to setup and use. Here is a nice step by step guide for [setting up the Ubuntu Bash](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) All of the projects in Term 2 and some in Term 3 involve using an open source package called uWebSocketIO. This package facilitates the necessary connection between the simulator and code.Once the Ubuntu is installed the <code>install-ubuntu.sh </code> was run to install the uWebSocketIO and other project dependencies.
   
 ## Ubuntu BASH on Windows
 * Steps
-- Ensure all dependencies are present per [project resources](https://goo.gl/e2kwJT)
-- Follow these the instructions in the [uWebSocketIO starter guide](https://goo.gl/D8hMoa) which includes instructions for setting up Ubuntu BASH.
+- Ensure all dependencies are present as per [project resources](https://goo.gl/e2kwJT)
+- Follow these the instructions in the [uWebSocketIO starter guide](https://goo.gl/D8hMoa) which includes instructions for setting up   Ubuntu BASH.
 - open Ubuntu Bash and clone the project repository
-- on the command line execute ./install-ubuntu.sh
+- on the command line execute <code>./install-ubuntu.sh</code>
 - build and run according to the instructions in the project repository README
 
 # Compiling and executing the project
