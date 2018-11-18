@@ -87,7 +87,7 @@ The code compiles without errors. I did change the [CMackeLists.txt](./CMakeList
 
 The EKF accuracy was:
 
-- Dataset 1 : RMSE <= [0.03271, 0.0865, 0.5206, 0.4989]
+- Dataset 1 : RMSE <= [0.0973, 0.0855, 0.4513, 0.4399]
 - Dataset 2 : RMSE <= [0.0726, 0.0965, 0.4216, 0.4932]
 
 ## Following the Correct Algorithm
