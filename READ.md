@@ -75,8 +75,7 @@ Here is the simulator final state after running the EKL with dataset 2:
 
 ### Your code should compile
 
-The code compiles without errors. ![see below]
-(./images/build-successful.PNG)
+The code compiles without errors. ![see below](./images/build-successful.PNG)
 
 ## Accuracy
 
