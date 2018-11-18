@@ -70,7 +70,7 @@ As you can see, the simulator connect to it right away.
 The following is an image of the simulator:
 
 ![Simulator without data](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG)
-![resized](./images/simulator_at_start.PNG =100x20)
+![resized](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG =100x20)
 
 The simulator provides two datasetsdepending on the order the first measurement is sent to the EKF
 
