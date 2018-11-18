@@ -71,10 +71,10 @@ The following is an image of the simulator:
 
 ![Simulator without data](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG)
 
-The simulator provides two datasets. The difference between them are:
+The simulator provides two datasetsdepending on the order the first measurement is sent to the EKF
 
-- The direction the car (the object) is moving.
-- The order the first measurement is sent to the EKF. On dataset 1, the LIDAR measurement is sent first. On the dataset 2, the RADAR measurement is sent first.
+- On dataset 1, the LIDAR measurement is sent first.
+- On the dataset 2, the RADAR measurement is sent first.
 
 Here is the simulator final state after running the EKL with dataset 1:
 
