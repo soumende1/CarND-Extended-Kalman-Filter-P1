@@ -40,19 +40,7 @@ These are the suggested steps:
   - `ExtendedKF` : EKF implementation.
   - `Test` : Simple unit tests using [Catch](https://github.com/philsquared/Catch/blob/master/docs/tutorial.md).
 
-## Running the tests
 
-From the build directory, execute `./Tests`. The output should be something similar to this:
-
-```
-ERROR - CalculateRMSE () - The estimations vector is empty
-ERROR - CalculateRMSE () - The ground-truth vector is empty
-ERROR - CalculateRMSE () - The ground-truth and estimations vectors must have the same size.
-ERROR - CalculateJacobian () - The state vector must have size 4.
-ERROR - CalculateJacobian () - Division by Zero
-===============================================================================
-All tests passed (13 assertions in 2 test cases)
-```
 
 These unit tests were an experiment with [Catch](https://github.com/philsquared/Catch/blob/master/docs/tutorial.md). It looks like a good and simple unit testing framework for C++.
 
@@ -83,7 +71,7 @@ Here is the simulator final state after running the EKL with dataset 1:
 
 Here is the simulator final state after running the EKL with dataset 2:
 
-![Simulator with dataset 1](images/simulator_with_dataset2.PNGg)
+![Simulator with dataset 2](images/simulator_with_dataset2.PNG)
 
 # [Rubric](https://review.udacity.com/#!/rubrics/748/view) points
 
