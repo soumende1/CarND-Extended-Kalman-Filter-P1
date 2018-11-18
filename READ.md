@@ -105,17 +105,17 @@ The first measurement is handled at [src/FusionEKF.cpp](./src/FusionEKF.cpp#L61)
 
 ### Your Kalman Filter algorithm first predicts then updates.
 
-The predict operation could be found at [src/FusionEKF.cpp](./src/FusionEKF.cpp#L147) line 147 and the update operation from line 159 to 169 of the same file.FusionEKF.cpp
+The predict operation could be found at [src/FusionEKF.cpp](./src/FusionEKF.cpp#L147) line 147 and the update operation from line 159 to 169 of the same file [src/FusionEKF.cpp](./src/FusionEKF.cpp#L159)
 
 ### Your Kalman Filter can handle radar and lidar measurements.
 
 Different type of measurements are handled in two places in [src/FusionEKF.cpp](./src/FusionEKF.cpp):
 
-- For the first measurement from line 61 to line 107.
-- For the update part from line 159 to 169.
+- For the first measurement from line 61 to line 107. [src/FusionEKF.cpp](./src/FusionEKF.cpp#L61)
+- For the update part from line 159 to 169.[src/FusionEKF.cpp](./src/FusionEKF.cpp#L159):
 
 ## Code Efficiency 
 
 ### Your algorithm should avoid unnecessary calculations.
 
-An example of this calculation optimization is when the Q matrix is calculated [src/FusionEKF.cpp](./src/FusionEKF.cpp#L141) line 135 to line 144.
+An example of this calculation optimization is when the Q matrix is calculated [src/FusionEKF.cpp](./src/FusionEKF.cpp#L135) line 135 to line 144.
