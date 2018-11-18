@@ -67,11 +67,11 @@ The simulator provides two datasetsdepending on the order the first measurement 
 
 Here is the simulator final state after running the EKL with dataset 1:
 
-![Simulator with dataset 1](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset1.png)
+![Simulator with dataset 1](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset1.PNG)
 
 Here is the simulator final state after running the EKL with dataset 2:
 
-![Simulator with dataset 2](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset2.png)
+![Simulator with dataset 2](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_with_dataset2.PNG)
 
 # [Rubric](https://review.udacity.com/#!/rubrics/748/view) points
 
