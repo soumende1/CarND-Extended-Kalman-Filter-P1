@@ -24,7 +24,7 @@ I used the Windows 10 environment to develop and build the code. Bash on Windows
 * Steps
 - Ensure all dependencies are present as per [project resources](https://goo.gl/e2kwJT)
 - Follow these the instructions in the [uWebSocketIO starter guide](https://goo.gl/D8hMoa) which includes instructions for setting up   Ubuntu BASH.
-- open Ubuntu Bash and clone the project repository
+- open Ubuntu Bash and clone the project repository- [see below](./images/ubuntu-terminal.PNG)
 - on the command line execute <code>./install-ubuntu.sh</code>
 - build and run according to the instructions in the project repository README
 
