@@ -70,20 +70,20 @@ As you can see, the simulator connect to it right away.
 The following is an image of the simulator:
 
 ![Simulator without data](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG)
-![resized](https://github.com/soumende1/CarND-Extended-Kalman-Filter-P1/blob/master/images/simulator_at_start.PNG | width="200" height="20")
+
 
 The simulator provides two datasetsdepending on the order the first measurement is sent to the EKF
 
 - On dataset 1, the LIDAR measurement is sent first.
-- On the dataset 2, the RADAR measurement is sent first.
+- On dataset 2, the RADAR measurement is sent first.
 
 Here is the simulator final state after running the EKL with dataset 1:
 
-![Simulator with dataset 1](images/simulator_dataset1.png)
+![Simulator with dataset 1](images/simulator_with_dataset1.PNG)
 
 Here is the simulator final state after running the EKL with dataset 2:
 
-![Simulator with dataset 1](images/simulator_dataset2.png)
+![Simulator with dataset 1](images/simulator_with_dataset2.PNGg)
 
 # [Rubric](https://review.udacity.com/#!/rubrics/748/view) points
 
